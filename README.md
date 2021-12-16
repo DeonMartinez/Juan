@@ -1,3 +1,5 @@
 # Juan
 
-https://deonmartinez.github.io/Juan/
+Playable - https://deonmartinez.github.io/Juan/
+
+Reference -
